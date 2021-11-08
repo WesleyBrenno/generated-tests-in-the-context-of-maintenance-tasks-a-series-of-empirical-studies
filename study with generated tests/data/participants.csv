@@ -1,0 +1,21 @@
+participante_id,cargo,experiencia,"escrita",execucao,importancia,"tdd",automatico,ferramenta
+01,Test Analyst,3 years,Rarely,Rarely,Extremely important,No,No,
+02,Software engineer,5 years,Rarely,Rarely,Very important,No,Yes,Other
+03,Software developer,1 year,Rarely,Rarely,Moderately important,No,No,
+05,Test Analyst,3 years,Rarely,Rarely,Extremely important,Yes,No,
+04,Software developer,4 years,Sometimes,Sometimes,Extremely important,Yes,No,
+06,Software engineer,4 years,Often,Often,Extremely important,No,No,
+07,Software developer,2 years,Never,Rarely,Very important,No,Yes,Randoop
+08,Software developer,4 years,Rarely,Rarely,Very important,No,Yes,Randoop
+09,Software engineer,2 years,Rarely,Rarely,Very important,No,No,
+10,Software engineer,2 years,Rarely,Rarely,Extremely important,No,No,
+11,Software developer ,5 years,Often,Often,Very important,No,No,
+12,Software developer,4 years,Sometimes,Sometimes,Very important,No,No,
+13,Test Analyst,3 years,Rarely,Rarely,Extremely important,Yes,No,
+14,Software developer,5 years,Sometimes,Sometimes,Very important,No,No,
+15,Software developer,3 years,Rarely,Rarely,Moderately important,No,No,
+16,Software developer,3 years,Rarely,Rarely,Extremely important,No,No,
+17,Software developer,3 years,Sometimes,Often,Very important,No,No,
+18,Software developer,1 year,Rarely,Rarely,Very important,No,No,
+19,Systems analyst,4 years,Sometimes,Sometimes,Very important,No,Yes,Randoop
+20,Software engineer,3 years,Rarely,Often,Extremely important,No,No,
