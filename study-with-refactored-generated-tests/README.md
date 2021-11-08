@@ -1,4 +1,3 @@
-# a-study-with-developers-and-maintenance-tasks
-Manually Written or Generated Tests? A Study with Developers and Maintenance Tasks
+# A STUDY ON THE USE OF REFACTORED GENERATED TESTS TO GUIDEMAINTENANCE TASKS
 
-This repository contains all the artifacts used in the study described in the article "Manually Written or Generated Tests?: A Study with Developers and Maintenance Tasks" (https://dl.acm.org/doi/10.1145/3422392.3422416)
+This folder contains all the artifacts used in the experiment presented in section 6. 
